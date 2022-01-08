@@ -1,0 +1,34 @@
+body{
+    background: url("background.jpg");
+}
+
+canvas{
+    border: solid black 3px;
+    box-shadow: 1px 1px 38px mediumblue;
+    border-radius: 15px;
+}
+
+.heading{
+    background-color:magenta;
+    border-radius: 5px;
+    top: 0;
+    padding: 10px;
+    box-shadow: 1px 1px 15px mediumblue;
+}
+
+.head{
+    letter-spacing: 2px;
+    color: lime;
+    font-family: 'Bakbak One', cursive;
+    font-size: 45px;
+}
+
+.note{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+#empty{
+    font-size: 30px;
+    margin-top:60px;
+}
